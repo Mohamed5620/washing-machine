@@ -1,6 +1,6 @@
 # washing-machine
 the file attached shows the design of a wshing machine that has 5 states
-[idle
+[-idle
 - fill
 - wash
 - rinse
