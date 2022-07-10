@@ -5,4 +5,4 @@ the file attached shows the design of a wshing machine that has 5 states
 - wash
 - rinse
 - spin
-/n also this washing machine has a configurable clock ability with a feature of double wash and pause the spinnig
+*also this washing machine has a configurable clock ability with a feature of double wash and pause the spinnig
